@@ -8,4 +8,4 @@ Dataset:
 - Image segmentation: https://www.kaggle.com/datasets/quadeer15sh/augmented-forest-segmentation
 - Sentiment analysis: medium review
 
-All of the description in the code and explanation video was done using Indonesian language.
+All of the description in the code and explanation video were done using Indonesian language.
