@@ -1,5 +1,11 @@
 # Deep-Learning
 
+Programming language
+- Python
+
+Tools
+- Google collab, Jupyter
+
 This repository consist of two project:
 - Image segmentation using U-net with Soft Attention (Attention Gate)
 - Sentiment analysis using RoBERTa model.
